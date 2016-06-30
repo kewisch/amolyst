@@ -1,0 +1,18 @@
+{
+  "formatters": {
+    "CSVFormatter": {
+      "basedir": "data/out"
+    }
+  },
+  "collectors": {
+    "AMOCollector": {
+      "host": "127.0.0.1",
+      "user": "root",
+      "db": "olympia",
+      "port": 3307
+    },
+    "ValidatorCollector": {
+      "basedir": "data/validator"
+    }
+  }
+}
