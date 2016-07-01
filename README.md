@@ -9,7 +9,7 @@ addons.mozilla.org, where data is extracted from the AMO database and the
 addons-linter validator results.
 
 
-![concept diagram](https://raw.githubusercontent.com/kewisch/amolyst/master/doc/concept.svg)
+![concept diagram](https://kewisch.github.io/amolyst/doc/concept.png)
 
 
 Usage
